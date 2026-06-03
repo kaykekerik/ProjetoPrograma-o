@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Cabecalho {
+padding: 15px 25px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #4d4a4a;
+}
+
+.cartao {
+    width: 200px;
+    height: 140px;
+}
+
+.cartao-imagem {
+    width: 50%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #a29e9e;
+}
+
+main {
+flex: 1;
+}
+
+.Cabecalho-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color: #fff;
+    font-size: 25px;
+}
+
+footer {
+    background-color: #4d4a4a;
+    padding: 15px 25px;
+    color: #fff;
+}
