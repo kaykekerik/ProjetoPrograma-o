@@ -38,8 +38,11 @@ flex: 1;
 
 h1 {
     color: #fff;
+    font-size: 25px;
 }
 
 footer {
     background-color: #4d4a4a;
+    padding: 15px 25px;
+    color: #fff;
 }
